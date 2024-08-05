@@ -1,0 +1,2 @@
+# amulya
+first repositry
